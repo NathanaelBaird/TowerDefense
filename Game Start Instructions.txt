@@ -1,0 +1,7 @@
+To start the game, follow these instructions:
+
+Select GameMain, then Scenes, then GameStart
+Double click GameStart
+Let it load then press play at the top
+It should pop up a menu with a few options
+Choose Level 
